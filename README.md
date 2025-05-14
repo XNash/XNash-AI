@@ -1,4 +1,4 @@
-## Nom : XNash
+## Nom : Xynorash
 
 **Objectif** : 
 ###### Assistant de développement personnel capable d'apprendre à partir des projets utilisateur, d'erreurs, et du web pour fournir des conseils contextuels et générer du code.
